@@ -65,7 +65,7 @@ pip3 install -r requirements.txt
   
 <body>
   
-    <iframe width="560" height="315" src="//https://youtu.be/T1lljbqwHI0" frameborder="0" allowfullscreen > </iframe>
+    <iframe  src="//https://youtu.be/T1lljbqwHI0" width="560" height="315" > </iframe>
 </body>
   
 </html>
