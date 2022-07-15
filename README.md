@@ -59,7 +59,16 @@ pip3 install -r requirements.txt
 
 
 ### Detection using image
-![s1](https://www.linkedin.com/posts/abdelkabirjabbar_hello-everyone-i-hope-you-are-well-i-disappeared-activity-6940602368371642369-39h2?utm_source=linkedin_share&utm_medium=member_desktop_web)
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>YouTube Video</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="//https://www.linkedin.com/posts/abdelkabirjabbar_hello-everyone-i-hope-you-are-well-i-disappeared-activity-6940602368371642369-39h2?utm_source=linkedin_share&utm_medium=member_desktop_web" frameborder="0" allowfullscreen></iframe>
+</body>
+</html>
+
 
 
 
