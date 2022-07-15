@@ -59,7 +59,7 @@ pip3 install -r requirements.txt
 
 
 ### Detection using image
-![s2](https://user-images.githubusercontent.com/76810003/160344930-321ce7ba-83a7-4252-81a5-e4ba8dc99d7a.gif)
+![s2](https://www.linkedin.com/posts/abdelkabirjabbar_hello-everyone-i-hope-you-are-well-i-disappeared-activity-6940602368371642369-39h2?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 
 
