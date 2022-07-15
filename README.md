@@ -1,7 +1,6 @@
 # Age-Prediction-and-Gender-Detection Web App
 A gender Detection  and age prediction web application developed using Flask, Open CV, HTML & CSS
-### Built With
-![python-shield] ![flask] ![open-cv] ![html-shield] ![css-shield] 
+
 
 * The frontend of the application is built using HTML & CSS
 * The backend is built using Flask and Open CV
